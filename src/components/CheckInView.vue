@@ -119,6 +119,7 @@
 
 <script>
 import { RegistersApiService } from '@/core/services/registers-api.service';
+
 export default {
     data() {
         return {
@@ -164,6 +165,7 @@ export default {
                     this.telefono = "";
                     this.contrasena = "";
                     this.repetirContrasena = "";
+                    this.$router.push('/pay');
                 } catch (error) {
                     console.error(error);
                 }
