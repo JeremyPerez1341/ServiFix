@@ -28,11 +28,13 @@
                             </li>
                             <li>
                                 <img src="../assets/images/user-icon.png" alt="user-icon">
-                                <a href="#">Perfil</a>
+                                <router-link to="/profile"><a>Perfil</a></router-link>
                             </li>
                             <li>
                                 <img src="../assets/images/close-sesion-icon.png" alt="close-sesion-icon">
-                                <a href="#">Cerrar Sesión</a>
+                                <router-link to="/login">
+                                        <a href="#">Cerrar Sesión</a>
+                                    </router-link>
                             </li>
                         </ul>
                     </nav>

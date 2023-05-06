@@ -4,6 +4,7 @@ import LoginSessionView from "@/components/LoginSessionView.vue";
 import CheckInView from "@/components/CheckInView.vue";
 import RecoverPasswordView from "@/components/RecoverPasswordView.vue";
 import AddPublicationView from "@/components/AddPublicationView.vue";
+import ProfileView from "@/components/ProfileView.vue";
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
   routes: [
@@ -35,6 +36,11 @@ const router = createRouter({
       path: '/add/publication',
       name: 'AddPublicationView',
       component: AddPublicationView
+    },
+    {
+      path: '/profile',
+      name: 'ProfileView',
+      component: ProfileView
     }
   ]
 })

@@ -55,7 +55,8 @@
                         </router-link>
                     </div>
                     <div class="card flex justify-content-center button-vamos">
-                        <pv-button @click="verificarCredenciales" label="Vamos" />
+                        <router-link to="/add/publication"> <pv-button @click="verificarCredenciales" label="Vamos" /></router-link>
+                       
                     </div>
                     <div class="contraseña">
                         <router-link to="/check/in">
