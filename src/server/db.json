@@ -1,0 +1,76 @@
+{
+  "registers": [
+    {
+      "correo": "aldo@gmail.com",
+      "nombre": "aldo",
+      "apellido": "pastrana",
+      "direccion": "av. universitaria",
+      "departamento": "Lima",
+      "distrito": "San miguel",
+      "telefono": "987654321",
+      "contrasena": "asd",
+      "repetirContrasena": "asd",
+      "id": 1
+    },
+    {
+      "correo": "juan@hotmail.com",
+      "nombre": "juan",
+      "apellido": "parra",
+      "direccion": "san miguel",
+      "departamento": "lima",
+      "distrito": "san miguel",
+      "telefono": "987654321",
+      "contrasena": "asdas",
+      "repetirContrasena": "sdasd",
+      "id": 2
+    },
+    {
+      "correo": "jenni@hotmail.com",
+      "nombre": "jenni",
+      "apellido": "vasquez",
+      "direccion": "san miguel",
+      "departamento": "lima",
+      "distrito": "comas",
+      "telefono": "987654321",
+      "contrasena": "asdasd",
+      "repetirContrasena": "asdasd",
+      "id": 3
+    },
+    {
+      "correo": "juancho@hotmail.com",
+      "nombre": "juancho",
+      "apellido": "pastrana",
+      "direccion": "san miguel",
+      "departamento": "san miguel",
+      "distrito": "san miguel",
+      "telefono": "987654321",
+      "contrasena": "asdasd",
+      "repetirContrasena": "asdasd",
+      "id": 4
+    },
+    {
+      "correo": "pedro@hotmail.com",
+      "nombre": "pedro",
+      "apellido": "lopez",
+      "direccion": "san miguel",
+      "departamento": "lima",
+      "distrito": "san miguel",
+      "telefono": "987654321",
+      "contrasena": "asd",
+      "repetirContrasena": "asd",
+      "id": 5
+    },
+    {
+      "correo": "Juan@gmail.com",
+      "nombre": "Juan",
+      "apellido": "Herrera",
+      "direccion": "San Miguel",
+      "departamento": "Lima",
+      "distrito": "San Miguel",
+      "telefono": "987654321",
+      "contrasena": "asdsa",
+      "repetirContrasena": "asdas",
+      "id": 6
+    }
+  ]
+}
